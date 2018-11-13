@@ -1,5 +1,5 @@
 # **Python Dasar**
-
+![Python Logo](python.png)
 ## Mencetak tulisan I Love You So Much
 
 ```python
