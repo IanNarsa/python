@@ -1,6 +1,6 @@
 # python
 python programing
 
-'''python
-print(x)
-'''
+```python
+print ("Helo word")
+```
